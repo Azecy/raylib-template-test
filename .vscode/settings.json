@@ -1,0 +1,27 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+	},
+	"files.associations": {
+		"global.h": "c",
+		"screens.h": "c",
+		"type_traits": "c",
+		"raylib.h": "c",
+		"ecs.h": "c",
+		"screen_gameplay.h": "c",
+		"screen_cutscene.h": "c",
+		"stdint.h": "c",
+		"mapper.h": "c",
+		"enums.h": "c",
+		"file_paths.h": "c",
+		"storage.h": "c",
+		"manage_input.h": "c",
+		"mob_types.h": "c"
+	}
+}

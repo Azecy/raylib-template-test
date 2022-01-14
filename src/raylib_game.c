@@ -1,3 +1,7 @@
+// cd src
+// make PLATFORM=PLATFORM_WEB -B
+// emrun raylib_game.html
+
 /*******************************************************************************************
 *
 *   raylib game template
